@@ -1,0 +1,56 @@
+Wikipedia, the free encyclopedia
+Safety is the state of being "safe" (from French sauf), the condition of being protected against physical, social, spiritual, financial, political, emotional, occupational, psychological, educational or other types or consequences of failure, damage, error, accidents, harm or any other event which could be considered non-desirable. Safety can also be defined to be the control of recognized hazards to achieve an acceptable level of risk. This can take the form of being protected from the event or from exposure to something that causes health or economical losses. It can include protection of people or of possessions.
+
+There are two slightly different meanings of safety. For example, home safety may indicate a building's ability to protect against external harm events (such as weather, home invasion, etc.), or may indicate that its internal installations (such as appliances, stairs, etc.) are safe (not dangerous or harmful) for its inhabitants.
+
+Discussions of safety often include mention of related terms. Security is such a term. With time the definitions between these two have often become interchanged, equated, and frequently appear juxtaposed in the same sentence. Readers unfortunately are left to conclude whether they comprise a redundancy. This confuses the uniqueness that should be reserved for each by itself. When seen as unique, as we intend here, each term will assume its rightful place in influencing and being influenced by the other.
+
+Safety is the condition of a “steady state” of an organization or place doing what it is supposed to do. “What it is supposed to do” is defined in terms of public codes and standards, associated architectural and engineering designs, corporate vision and mission statements, and operational plans and personnel policies. For any organization, place, or function, large or small, safety is a normative concept. It complies with situation-specific definitions of what is expected and acceptable.
+
+Using this definition, protection from a home’s external threats and protection from its internal structural and equipment failures (see Meanings, above) are not two types of safety but rather two aspects of a home’s steady state.
+
+In the world of everyday affairs, not all goes as planned. Some entity’s steady state is challenged. This is where security science, which is of more recent date, enters. Drawing from the definition of safety, then:
+
+Security is the process or means, physical or human, of delaying, preventing, and otherwise protecting against external or internal, defects, dangers, loss, criminals, and other individuals or actions that threaten, hinder or destroy an organization’s “steady state,” and deprive it of its intended purpose for being.
+
+Using this generic definition of safety it is possible to specify the elements of a security program.
+
+Safety can be limited in relation to some guarantee or a standard of insurance to the quality and unharmful function of an object or organization. It is used in order to ensure that the object or organization will do only what it is meant to do.
+
+It is important to realize that safety is relative. Eliminating all risk, if even possible, would be extremely difficult and very expensive. A safe situation is one where risks of injury or property damage are low and manageable.
+
+It is important to distinguish between products that meet standards, that are safe, and those that merely feel safe. The highway safety community uses these terms:
+
+Normative safety is a term used to describe products or designs that meet applicable design standards and protection.
+
+Substantive, or objective safety means that the real-world safety history is favorable, whether or not standards are met.
+
+Perceived, or subjective safety refers to the level of comfort of users. For example, traffic signals are perceived as safe, yet under some circumstances, they can increase traffic crashes at an intersection. Traffic roundabouts have a generally favorable safety record yet often make drivers nervous.
+
+Low perceived safety can have costs. For example, after the 9/11/2001 attacks, many people chose to drive rather than fly, despite the fact that, even counting terrorist attacks, flying is safer than driving. Perceived risk discourages people from walking and bicycling for transportation, enjoyment or exercise, even though the health benefits outweigh the risk of injury.
+
+Also called social safety or public safety, security is the risk of harm due to intentional criminal acts such as assault, burglary or vandalism.
+
+Because of the moral issues involved, security is of higher importance to many people than substantive safety. For example, a death due to murder is considered worse than a death in a car crash, even though in many countries, traffic deaths are more common than homicides.
+
+Safety is generally interpreted as implying a real and significant impact on risk of death, injury or damage to property. In response to perceived risks many interventions may be proposed with engineering responses and regulation being two of the most common.
+
+Probably the most common individual response to perceived safety issues is insurance, which compensates for or provides restitution in the case of damage or loss.
+
+System safety and reliability engineering is an engineering discipline. Continuous changes in technology, environmental regulation and public safety concerns make the analysis of complex safety-critical systems more and more demanding.
+
+A common fallacy, for example among electrical engineers regarding structure power systems, is that safety issues can be readily deduced. In fact, safety issues have been discovered one by one, over more than a century in the case mentioned, in the work of many thousands of practitioners, and cannot be deduced by a single individual over a few decades. A knowledge of the literature, the standards and custom in a field is a critical part of safety engineering. A combination of theory and track record of practices is involved, and track record indicates some of the areas of theory that are relevant. (In the USA, persons with a state license in Professional Engineering in Electrical Engineering are expected to be competent in this regard, the foregoing notwithstanding, but most electrical engineers have no need of the license for their work.)
+
+Safety is often seen as one of a group of related disciplines: quality, reliability, availability, maintainability and safety. (Availability is sometimes not mentioned, on the principle that it is a simple function of reliability and maintainability.) These issues tend to determine the value of any work, and deficits in any of these areas are considered to result in a cost, beyond the cost of addressing the area in the first place; good management is then expected to minimize total cost.
+
+Safety measures are activities and precautions taken to improve safety, i.e. reduce risk related to human health. Common safety measures include:
+
+A number of standards organizations exist that promulgate safety standards. These may be voluntary organizations or government agencies.
+
+A major American standards organization is the American National Standards Institute (ANSI). Usually, members of a particular industry will voluntarily form a committee to study safety issues and propose standards. Those standards are then recommended to ANSI, which reviews and adopts them. Many government regulations require that products sold or used must comply with a particular ANSI standard.
+
+Many government agencies set safety standards for matters under their jurisdiction, such as:
+
+Product safety testing, for the United States, is largely controlled by the Consumer Product Safety Commission. In addition, workplace related products come under the jurisdiction of the Occupational Safety and Health Administration (OSHA), which certifies independent testing companies as Nationally Recognized Testing Laboratories (NRTL), see [1].
+
+Many countries have national organizations that have accreditation to test and/or submit test reports for safety certification. These are typically referred to as a Notified or Competent Body.

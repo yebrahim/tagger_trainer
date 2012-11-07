@@ -1,0 +1,80 @@
+Wikipedia, the free encyclopedia
+A pharmaceutical drug, also referred to as medicine or medication, can be loosely defined as any chemical substance intended for use in the medical diagnosis, cure, treatment, or prevention of disease. The word pharmaceutical comes from the Greek word Pharmakeia. The modern transliteration of Pharmakeia is Pharmacia.
+
+Medications can be classified in various ways, such as by chemical properties, mode or route of administration, biological system affected, or therapeutic effects. An elaborate and widely used classification system is the Anatomical Therapeutic Chemical Classification System (ATC system). The World Health Organization keeps a list of essential medicines.
+
+Drugs affecting the central nervous system include: hypnotics, anaesthetics, antipsychotics, antidepressants (including tricyclic antidepressants, monoamine oxidase inhibitors, lithium salts, and selective serotonin reuptake inhibitors (SSRIs)), antiemetics, anticonvulsants/antiepileptics, anxiolytics, barbiturates, movement disorder (e.g., Parkinson's disease) drugs, stimulants (including amphetamines), benzodiazepines, cyclopyrrolones, dopamine antagonists, antihistamines, cholinergics, anticholinergics, emetics, cannabinoids, and 5-HT (serotonin) antagonists.
+
+The main classes of painkillers are NSAIDs, opioids and various orphans such as paracetamol.
+
+The main categories of drugs for musculoskeletal disorders are: NSAIDs (including COX-2 selective inhibitors), muscle relaxants, neuromuscular drugs, and anticholinesterases.
+
+An euthanaticum is used for euthanasia and physician-assisted suicide.
+
+Euthanasia is not permitted by law in many countries, and consequently medicines will not be licensed for this use in those countries.
+
+Administration is the delivery of a pharmaceutical drug to a patient.
+
+It can be performed in various dosage forms such as pills, tablets, or capsules.
+
+There are also many variations in the routes of administration, including intravenous (into the blood through a vein) and oral administration (through the mouth).
+
+They can be administered all at once as a bolus, at frequent intervals or continuously. Frequencies are often abbreviated from Latin, such as every 8 hours reading Q8H from Quaque VIII Hora.
+
+Depending upon the jurisdiction, medications may be divided into over-the-counter drugs (OTC) which may be available without special restrictions, and prescription only medicine (POM), which must be prescribed by a licensed medical practitioner. The precise distinction between OTC and prescription depends on the legal jurisdiction. A third category, behind-the-counter medications (BTMs), is implemented in some jurisdictions. BTMs do not require a prescription, but must be kept in the dispensary, not visible to the public, and only be sold by a pharmacist or pharmacy technician. Doctors may also prescribe prescription drugs for off-label use - purposes which the drugs were not originally approved for by the regulatory agency. The Classification of Pharmaco-Therapeutic Referrals helps guide the referral process between pharmacists and doctors.
+
+The International Narcotics Control Board of the United Nations imposes a world law of prohibition of certain medications. They publish a lengthy list of chemicals and plants whose trade and consumption (where applicable) is forbidden. OTC medications are sold without restriction as they are considered safe enough that most people will not hurt themselves accidentally by taking it as instructed. Many countries, such as the United Kingdom have a third category of pharmacy medicines which can only be sold in registered pharmacies, by or under the supervision of a pharmacist.
+
+For patented medications, countries may have certain mandatory licensing programs which compel, in certain situations, a medication's owner to contract with other agents to manufacture the drug. Such programs may deal with the contingency of a lack of medication in the event of a serious epidemic of disease, or may be part of efforts to ensure that disease treating drugs, such as AIDS drugs, are available to countries which cannot afford the drug owner's price.
+
+Drugs which are prescription only are regulated as such because they can impose adverse effects and should not be used unless necessary. Medical guidelines and clinical trials required for approval are used to help inform doctors' prescription of these drugs, but errors can happen. Reasons to not prescribe drugs such as interactions or side effects are called contraindications.
+
+Errors include overprescription and polypharmacy, misprescription, contraindication and lack of detail in dosage and administrations instructions. In 2000 the definition of a prescription error was studied using a Delphi method conference; the conference was motivated by ambiguity in the what a prescription error and a need to use a uniform definition in studies.
+
+Drug development is the process by which a drug is created. Drugs can be extracted from natural products (pharmacognosy) or synthesized through chemical processes. The drug's active ingredient will be combined with a "vehicle" such as a capsule, cream, or liquid which will be administered through a particular route of administration. Child-resistant packaging will likely be used in the ultimate package sold to the consumer.
+
+A blockbuster drug is a drug generating more than $1 billion of revenue for its owner each year. Cimetidine was the first drug ever to reach more than $1 billion a year in sales, thus making it the first blockbuster drug.
+
+A report from URCH Publishing estimated that about one third of the pharma market by value is accounted for by blockbusters. About 125 products are blockbusters. The top seller currently is Lipitor, a cholesterol-lowering medication marketed by Pfizer with sales of $12.5 billion. In 2009 there were a total of seven new blockbuster drugs, with combined sales of $9.8 billion. Beyond this purely arbitrary financial consideration,
+
+The birth control pill Enovid was the first modern drug taken by those not ill for a highly prevalent chronic condition. The focus on highly profitable drugs for chronic conditions and resulting de-emphasis of one-time acute treatment drugs has led to occasional shortages of antibiotics or vaccines, such as the influenza vaccine shortage in the United States.
+
+Sales are for the 12 months preceding June 30, 2011.
+
+Since the 1990s water contamination by pharmaceuticals has been an environmental issue of concern. Most pharmaceuticals are deposited in the environment through human consumption and excretion, and are often filtered ineffectively by wastewater treatment plants which are not designed to manage them. Once in the water they can have diverse, subtle effects on organisms, although research is limited. Pharmaceuticals may also be deposited in the environment through improper disposal, runoff from sludge fertilizer and reclaimed wastewater irrigation, and leaky sewage. In 2009 an investigative report by Associated Press concluded that U.S. manufacturers had legally released 271 million pounds of drugs into the environment, 92% of which was the antiseptics phenol and hydrogen peroxide. It could not distinguish between drugs released by manufacturers as opposed to the pharmaceutical industry. It also found that an estimated 250 million pounds of pharmaceuticals and contaminated packaging were discarded by hospitals and long-term care facilities.
+
+Pharmacoenvironmentology is a branch of pharmacology and a form of pharmacovigilance which deals entry of chemicals or drugs into the environment after elimination from humans and animals post-therapy. It deals specifically with those pharmacological agents that have impact on the environment via elimination through living organisms subsequent to pharmacotherapy, while Ecopharmacology is concerned with the entry of chemicals or drugs into the environment through any route and at any concentration disturbing the balance of ecology (ecosystem), as a consequence. Ecopharmacology is a broad term that includes studies of “PPCPs” irrespective of doses and route of entry into environment.
+
+Ecopharmacovigilance is the science and activities associated with the detection, evaluation, understanding and prevention of adverse effects of pharmaceuticals in the environment. This is close to the WHO definition of pharmacovigilance, the science aiming to capture any adverse effects of pharmaceuticals in humans after use.
+
+The term Environmental Persistent Pharmaceutical Pollutants (EPPP) was suggested in the 2010 nomination of pharmaceuticals and environment as an emerging issue to Strategic Approach to International Chemicals Management (SAICM) by the International Society of Doctors for the Environment (ISDE).
+
+Using plants and plant substances to treat all kinds of diseases and medical conditions is believed to date back to prehistoric medicine.
+
+The Kahun Gynaecological Papyrus, the oldest known medical text of any kind, dates to about 1800 BC and represents the first documented use of any kind of medication. It and other medical papyri describe Ancient Egyptian medical practices, such as using honey to treat infections. Although honey is no longer used as an effective cure for illness, it is used as a remedy to help cure a cough or sore throat.
+
+Ancient Babylonian medicine demonstrate the use of prescriptions in the first half of the 2nd millennium BC. Medicinal creams and pills were employed as treatments.
+
+On the Indian subcontinent, the Atharvaveda, a sacred text of Hinduism whose core dates from the 2nd millennium BC, although the hymns recorded in it are believed to be older, is the first Indic text dealing with medicine. It describes plant-based medications to counter diseases. The earliest foundations of ayurveda were built on a synthesis of selected ancient herbal practices, together with a massive addition of theoretical conceptualizations, new nosologies and new therapies dating from about 400 BC onwards. The student of Āyurveda was expected to know ten arts that were indispensable in the preparation and application of his medicines: distillation, operative skills, cooking, horticulture, metallurgy, sugar manufacture, pharmacy, analysis and separation of minerals, compounding of metals, and preparation of alkalis.
+
+The Hippocratic Oath for physicians, attributed to 5th century BC Greece, refers to the existence of "deadly drugs", and ancient Greek physicians imported medications from Egypt and elsewhere.
+
+Al-Kindi's 9th century AD book, De Gradibus and Ibn Sina (Avicenna)'s The Canon of Medicine cover a range of drugs known to Medicine in the medieval Islamic world.
+
+Medieval medicine saw advances in surgery, but few truly effective drugs existed, beyond opium and quinine. Folklore cures and potentially poisonous metal-based compounds were popular treatments. Theodoric Borgognoni, (1205–1296), one of the most significant surgeons of the medieval period, responsible for introducing and promoting important surgical advances including basic antiseptic practice and the use of anaesthetics. Garcia de Orta described some herbal treatments that were used.
+
+For most of the 19th century, drugs were not highly effective, leading Oliver Wendell Holmes, Sr. to famously comment in 1842 that "if all medicines in the world were thrown into the sea, it would be all the better for mankind and all the worse for the fishes".
+
+During the First World War, Alexis Carrel and Henry Dakin developed the Carrel-Dakin method of treating wounds with an irrigation, Dakin's solution, a germicide which helped prevent gangrene.
+
+In the inter-war period, the first anti-bacterial agents such as the sulpha antibiotics were developed. The Second World War saw the introduction of widespread and effective antimicrobial therapy with the development and mass production of penicillin antibiotics, made possible by the pressures of the war and the collaboration of British scientists with the American pharmaceutical industry.
+
+Medicines commonly used by the late 1920s included aspirin, codeine, and morphine for pain; digitalis, nitroglycerin, and quinine for heart disorders, and insulin for diabetes. Other drugs included antitoxins, a few biological vaccines, and a few synthetic drugs. In the 1930s antibiotics emerged: first sulfa drugs, then penicillin and other antibiotics. Drugs increasingly became "the center of medical practice". In the 1950s other drugs emerged including corticosteroids for inflammation, rauwolfia alkloids as tranqulizers and antihypertensives, antihistamines for nasal allergies, xanthines for asthma, and typical antipsychotics for psychosis. As of 2008, thousands of approved drugs have been developed. Increasingly, biotechnology is used to discover biopharmaceuticals. Recently, multi-disciplinary approaches have yielded a wealth of new data on the development of novel antibiotics and antibacterials and on the use of biological agents for antibacterial therapy.
+
+In the 1950s new psychiatric drugs, notably the antipsychotic chlorpromazine, were designed in laboratories and slowly came into preferred use. Although often accepted as an advance in some ways, there was some opposition, due to serious adverse effects such as tardive dyskinesia. Patients often opposed psychiatry and refused or stopped taking the drugs when not subject to psychiatric control.
+
+Governments have been heavily involved in the regulation of drug development and drug sales. In the U.S., the Elixir Sulfanilamide disaster led to the establishment of the Food and Drug Administration, and the 1938 Federal Food, Drug, and Cosmetic Act required manufacturers to file new drugs with the FDA. The 1951 Humphrey-Durham Amendment required certain drugs to be sold by prescription. In 1962 a subsequent amendment required new drugs to be tested for efficacy and safety in clinical trials.
+
+Until the 1970s, drug prices were not a major concern for doctors and patients. As more drugs became prescribed for chronic illnesses, however, costs became burdensome, and by the 1970s nearly every U.S. state required or encouraged the substitution of generic drugs for higher-priced brand names. This also led to the 2006 U.S. law, Medicare Part D, which offers Medicare coverage for drugs.
+
+As of 2008, the United States is the leader in medical research, including pharmaceutical development. U.S. drug prices are among the highest in the world, and drug innovation is correspondingly high. In 2000 U.S. based firms developed 29 of the 75 top-selling drugs; firms from the second-largest market, Japan, developed eight, and the United Kingdom contributed 10. France, which imposes price controls, developed three. Throughout the 1990s outcomes were similar.

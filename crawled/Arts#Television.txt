@@ -1,0 +1,106 @@
+Wikipedia, the free encyclopedia
+Television (TV) is a telecommunication medium for transmitting and receiving moving images that can be monochrome (black-and-white) or colored, with or without accompanying sound. "Television" may also refer specifically to a television set, television programming, or television transmission.
+
+The etymology of the word has a mixed Latin and Greek origin, meaning "far sight": Greek tele ( ), far, and Latin visio, sight (from video, vis- to see, or to view in the first person).
+
+Commercially available since the late 1920s, the television set has become commonplace in homes, businesses and institutions, particularly as a vehicle for advertising, a source of entertainment, and news. Since the 1950s, television has been the main medium for molding public opinion. Since the 1970s the availability of video cassettes, laserdiscs, DVDs and now Blu-ray Discs, have resulted in the television set frequently being used for viewing recorded as well as broadcast material. In recent years Internet television has seen the rise of television available via the Internet, e.g. iPlayer and Hulu.
+
+Although other forms such as closed-circuit television (CCTV) are in use, the most common usage of the medium is for broadcast television, which was modeled on the existing radio broadcasting systems developed in the 1920s, and uses high-powered radio-frequency transmitters to broadcast the television signal to individual TV receivers.
+
+The broadcast television system is typically disseminated via radio transmissions on designated channels in the 54–890 MHz frequency band. Signals are now often transmitted with stereo or surround sound in many countries. Until the 2000s broadcast TV programs were generally transmitted as an analog television signal, but in 2008 the USA went almost exclusively digital.
+
+A standard television set comprises multiple internal electronic circuits, including those for receiving and decoding broadcast signals. A visual display device which lacks a tuner is properly called a video monitor, rather than a television. A television system may use different technical standards such as digital television (DTV) and high-definition television (HDTV). Television systems are also used for surveillance, industrial process control, and guiding of weapons, in places where direct observation is difficult or dangerous. Some studies have found a link between infancy exposure to television and ADHD.
+
+In its early stages of development, television employed a combination of optical, mechanical and electronic technologies to capture, transmit and display a visual image. By the late 1920s, however, those employing only optical and electronic technologies were being explored. All modern television systems relied on the latter, although the knowledge gained from the work on electromechanical systems was crucial in the development of fully electronic television.
+
+The first images transmitted electrically were sent by early mechanical fax machines, including the pantelegraph, developed in the late nineteenth century. The concept of electrically powered transmission of television images in motion was first sketched in 1878 as the telephonoscope, shortly after the invention of the telephone. At the time, it was imagined by early science fiction authors, that someday that light could be transmitted over copper wires, as sounds were.
+
+The idea of using scanning to transmit images was put to actual practical use in 1881 in the pantelegraph, through the use of a pendulum-based scanning mechanism. From this period forward, scanning in one form or another has been used in nearly every image transmission technology to date, including television. This is the concept of "rasterization", the process of converting a visual image into a stream of electrical pulses.
+
+In 1884 Paul Gottlieb Nipkow, a 23-year-old university student in Germany, patented the first electromechanical television system which employed a scanning disk, a spinning disk with a series of holes spiraling toward the center, for rasterization. The holes were spaced at equal angular intervals such that in a single rotation the disk would allow light to pass through each hole and onto a light-sensitive selenium sensor which produced the electrical pulses. As an image was focused on the rotating disk, each hole captured a horizontal "slice" of the whole image.
+
+Nipkow's design would not be practical until advances in amplifier tube technology became available. Later designs would use a rotating mirror-drum scanner to capture the image and a cathode ray tube (CRT) as a display device, but moving images were still not possible, due to the poor sensitivity of the selenium sensors. In 1907 Russian scientist Boris Rosing became the first inventor to use a CRT in the receiver of an experimental television system. He used mirror-drum scanning to transmit simple geometric shapes to the CRT.
+
+Using a Nipkow disk, Scottish inventor John Logie Baird succeeded in demonstrating the transmission of moving silhouette images in London in 1925, and of moving, monochromatic images in 1926. Baird's scanning disk produced an image of 30 lines resolution, just enough to discern a human face, from a double spiral of Photographic lenses. This demonstration by Baird is generally agreed to be the world's first true demonstration of television, albeit a mechanical form of television no longer in use. Remarkably, in 1927 Baird also invented the world's first video recording system, "Phonovision": by modulating the output signal of his TV camera down to the audio range, he was able to capture the signal on a 10-inch wax audio disc using conventional audio recording technology. A handful of Baird's 'Phonovision' recordings survive and these were finally decoded and rendered into viewable images in the 1990s using modern digital signal-processing technology.
+
+In 1926, Hungarian engineer Kálmán Tihanyi designed a television system utilizing fully electronic scanning and display elements, and employing the principle of "charge storage" within the scanning (or "camera") tube.
+
+On December 25, 1926, Kenjiro Takayanagi demonstrated a television system with a 40-line resolution that employed a CRT display at Hamamatsu Industrial High School in Japan. This was the first working example of a fully electronic television receiver. Takayanagi did not apply for a patent.
+
+By 1927, Russian inventor Léon Theremin developed a mirror-drum-based television system which used interlacing to achieve an image resolution of 100 lines.
+
+In 1927, Philo Farnsworth made the world's first working television system with electronic scanning of both the pickup and display devices, which he first demonstrated to the press on 1 September 1928.
+
+WRGB claims to be the world's oldest television station, tracing its roots to an experimental station founded on January 13, 1928, broadcasting from the General Electric factory in Schenectady, NY, under the call letters W2XB. It was popularly known as "WGY Television" after its sister radio station. Later in 1928, General Electric started a second facility, this one in New York City, which had the call letters W2XBS, and which today is known as WNBC. The two stations were experimental in nature and had no regular programming, as receivers were operated by engineers within the company. The image of a Felix the Cat doll, rotating on a turntable, was broadcast for 2 hours every day for several years, as new technology was being tested by the engineers.
+
+In 1936 the Olympic Games in Berlin were carried by cable to television stations in Berlin and Leipzig where the public could view the games live.
+
+In 1935 the German firm of Fernseh A.G. and the United States firm Farnsworth Television owned by Philo Farnsworth signed an agreement to exchange their television patents and technology to speed development of television transmitters and stations in their respective countries.
+
+On 2 November 1936 the BBC began transmitting the world's first public regular high-definition service from the Victorian Alexandra Palace in north London. It therefore claims to be the birthplace of television broadcasting as we know it today.
+
+In 1936, Kálmán Tihanyi described the principle of plasma display, the first flat panel display system.
+
+Mexican inventor Guillermo González Camarena also played an important role in early television. His experiments with television (known as telectroescopía at first) began in 1931 and led to a patent for the "trichromatic field sequential system" color television in 1940,.
+
+Although television became more familiar in the United States with the general public at the 1939 World's Fair, the outbreak of World War II prevented it from being manufactured on a large scale until after the end of the war. True regular commercial television network programming did not begin in the U.S. until 1948. During that year, legendary conductor Arturo Toscanini made his first of ten TV appearances conducting the NBC Symphony Orchestra, and Texaco Star Theater, starring comedian Milton Berle, became television's first gigantic hit show. Since the 1950s, television has been the main medium for molding public opinion.
+
+Amateur television (ham TV or ATV) was developed for non-commercial experimentation, pleasure and public service events by amateur radio operators. Ham TV stations were on the air in many cities before commercial TV stations came on the air.
+
+In 2012, it was reported that television was growing into a larger component of major media companies' revenues than film.
+
+Getting TV programming shown to the public can happen in many different ways. After production the next step is to market and deliver the product to whatever markets are open to using it. This typically happens on two levels:
+
+First run programming is increasing on subscription services outside the U.S., but few domestically produced programs are syndicated on domestic free-to-air (FTA) elsewhere. This practice is increasing however, generally on digital-only FTA channels, or with subscriber-only first-run material appearing on FTA.
+
+Unlike the U.S., repeat FTA screenings of a FTA network program almost only occur on that network. Also, affiliates rarely buy or produce non-network programming that is not centred around local programming.
+
+Around the globe, broadcast television is financed by either government, advertising, licensing (a form of tax), subscription or any combination of these. To protect revenues, subscription TV channels are usually encrypted to ensure that only subscription payers receive the decryption codes to see the signal. Unencrypted channels are known as free to air or FTA.
+
+In 2009 the global TV market represented 1,217.2 million TV households with at least one television, and total revenues of 268.9 billion EUR (declining 1.2% compared to 2008). North America had the biggest TV revenue market share with 39%, followed by Europe (31%), Asia-Pacific (21%), Latin America (8%) and Africa and the Middle East (2%).
+
+Globally, the different TV revenue sources divide into 45 to 50% TV advertising revenues, 40 to 45% subscription fees and 10% public funding.
+
+Television's broad reach makes it a powerful and attractive medium for advertisers. Many television networks and stations sell blocks of broadcast time to advertisers ("sponsors") in order to fund their programming.
+
+Since inception in the U.S. in 1941, television commercials have become one of the most effective, persuasive, and popular methods of selling products of many sorts, especially consumer goods. During the 1940s and into the 1950s, programs were hosted by single advertisers. This, in turn, gave great creative license to the advertisers over the content of the show. Perhaps due to the quiz show scandals in the 1950s, networks shifted to the magazine concept introducing advertising breaks with multiple advertisers.
+
+U.S. advertising rates are determined primarily by Nielsen ratings. The time of the day and popularity of the channel determine how much a television commercial can cost. For example, the highly popular American Idol can cost approximately $750,000 for a 30-second block of commercial time; while the same amount of time for the World Cup and the Super Bowl can cost several million dollars. Conversely, lesser-viewed time slots, such as early mornings and weekday afternoons, are often sold in bulk to producers of infomercials which is less expensive.
+
+In recent years, the paid program or infomercial has become common, usually in lengths of 30 minutes or one hour. Some drug companies and other businesses have even created "news" items for broadcast, known in the industry as video news releases, paying program directors to use them.
+
+Some TV programs also weave advertisements into their shows, a practice begun in film and known as product placement. For example, a character could be drinking a certain kind of soda, going to a particular chain restaurant, or driving a certain make of car. (This is sometimes very subtle, where shows have vehicles provided by manufacturers for low cost, rather than wrangling them.) Sometimes a specific brand or trade mark, or music from a certain artist or group, is used. (This excludes guest appearances by artists, who perform on the show.)
+
+The TV regulator oversees TV advertising in the United Kingdom. Its restrictions have applied since the early days of commercially funded TV. Despite this, an early TV mogul, Roy Thomson, likened the broadcasting licence as being a "licence to print money". Restrictions mean that the big three national commercial TV channels: ITV, Channel 4, and Five can show an average of only seven minutes of advertising per hour (eight minutes in the peak period). Other broadcasters must average no more than nine minutes (twelve in the peak). This means that many imported TV shows from the US have unnatural breaks where the UK company has edited out the breaks intended for US advertising. Advertisements must not be inserted in the course of certain specific proscribed types of programs which last less than half an hour in scheduled duration; this list includes any news or current affairs program, documentaries, and programs for children. Nor may advertisements be carried in a program designed and broadcast for reception in schools or in any religious broadcasting service or other devotional program, or during a formal Royal ceremony or occasion. There also must be clear demarcations in time between the programs and the advertisements.
+
+The BBC, being strictly non-commercial is not allowed to show advertisements on television in the UK, although it has many advertising-funded channels abroad. The majority of its budget comes from television license fees (see below) and broadcast syndication, the sale of content to other broadcasters.
+
+The Broadcasting Commission of Ireland (BCI) (Irish: Coimisiún Craolacháin na hÉireann) oversees advertising on television and radio within Ireland on both private and state owned broadcasters. Similar to other European countries, advertising is found on both private and state owned broadcasters. There are some restrictions based on advertising, especially in relation to the advertising of alcohol. Such advertisements are prohibited until after 7pm. Broadcasters in Ireland adhere to broadcasting legislation implemented by the Broadcasting Commission of Ireland and the European Union. Sponsorship of current affairs programming is prohibited at all times.
+
+As of October 1, 2009 the responsibilities held by the BCI are gradually being transferred to the Broadcasting Authority of Ireland.
+
+Television services in some countries may be funded by a television licence or a form of taxation which means advertising plays a lesser role or no role at all. For example, some channels may carry no advertising at all and some very little, including:
+
+The BBC carries no television advertising on its UK channels and is funded by an annual television license paid by all households owning a television. This television license fee is set by government, but the BBC is not answerable to or controlled by government.
+
+The two main BBC TV channels are watched by almost 90 percent of the population each week and overall have 27 per cent share of total viewing. This in spite of the fact that 85% of homes are multichannel, with 42% of these having access to 200 free to air channels via satellite and another 43% having access to 30 or more channels via Freeview. The licence that funds the seven advertising-free BBC TV channels currently costs £139.50 a year (about US$215) irrespective of the number of TV sets owned. When the same sporting event has been presented on both BBC and commercial channels, the BBC always attracts the lion's share of the audience, indicating viewers prefer to watch TV uninterrupted by advertising.
+
+The Australian Broadcasting Corporation (ABC) carries no advertising (except for internal promotional material) as it is banned under the ABC Act 1983. The ABC receives its funding from the Australian Government every three years. In the 2008/09 Federal Budget the ABC received A$1.13 Billion. The funds assist in providing the ABC's Television, Radio, Online and International outputs. The ABC also receives funds from its many ABC Shops across Australia. However funded by the Australian Government the editorial independence of the ABC is ensured through law.
+
+In France and Ireland government-funded channels carry advertisements yet those who own television sets have to pay an annual tax ("la redevance audiovisuelle").
+
+In Japan, NHK is paid for by license fees (known in Japanese as reception fee ( Jushinryō
+
+Some TV channels are partly funded from subscriptions therefore the signals are encrypted during broadcast to ensure that only the paying subscribers have access to the decryption codes to watch pay television or specialty channels. Most subscription services are also funded by advertising.
+
+Television genres include a broad range of programming types that entertain, inform, and educate viewers. The most expensive entertainment genres to produce are usually drama and dramatic miniseries. However, other genres, such as historical Western genres, may also have high production costs.
+
+Popular culture entertainment genres include action-oriented shows such as police, crime, detective dramas, horror, or thriller shows. As well, there are also other variants of the drama genre, such as medical dramas and daytime soap operas. Science fiction shows can fall into either the drama or action category, depending on whether they emphasize philosophical questions or high adventure. Comedy is a popular genre which includes situation comedy (sitcom) and animated shows for the adult demographic such as South Park.
+
+The least expensive forms of entertainment programming genres are game shows, talk shows, variety shows, and Reality television. Game shows show contestants answering questions and solving puzzles to win prizes. Talk shows feature interviews with film, television and music celebrities and public figures. Variety shows feature a range of musical performers and other entertainers such as comedians and magicians introduced by a host or Master of Ceremonies. There is some crossover between some talk shows and variety shows, because leading talk shows often feature performances by bands, singers, comedians, and other performers in between the interview segments. Reality TV shows "regular" people (i.e., not actors) who are facing unusual challenges or experiences, ranging from arrest by police officers (COPS) to weight loss (The Biggest Loser). A variant version of reality shows depicts celebrities doing mundane activities such as going about their everyday life (The Osbournes, Snoop Dogg's Father Hood) or doing manual labor (The Simple Life).
+
+North American consumers purchase a new television every seven years, and the average household owns 2.8 televisions. As of 2011 , 48 million are sold each year, at an average price of $460 and size of 38 inches.
+
+Television has played a pivotal role in the socialization of the 20th and 21st centuries. There are many aspects of television that can be addressed, including media violence research. In 2010 the iPlayer incorporated a social media aspect to its internet television service, including Facebook and Twitter.
+
+With high lead content in CRTs, and the rapid diffusion of new, flat-panel display technologies, some of which (LCDs) use lamps which contain mercury, there is growing concern about electronic waste from discarded televisions. Related occupational health concerns exist, as well, for disassemblers removing copper wiring and other materials from CRTs. Further environmental concerns related to television design and use relate to the devices' increasing electrical energy requirements.

@@ -1,0 +1,86 @@
+Wikipedia, the free encyclopedia
+Printing is a process for reproducing text and images, typically with ink on paper using a printing press. It is often carried out as a large-scale industrial process, and is an essential part of publishing and transaction printing.
+
+The development of printing was preceded by the use of cylinder seals in Mesopotamia developed in 3500 B.C., and other related stamp seals. The earliest form of printing was woodblock printing, with existing examples from China dating to before 220 A.D. and Egypt to the fourth century. Later developments in printing include the movable type, first developed by Bi Sheng in China, and the printing press, a more efficient printing process for western languages with their more limited alphabets, developed by Johannes Gutenberg in the fifteenth century.
+
+Woodblock printing is a technique for printing text, images or patterns that was used widely throughout East Asia. It originated in China in antiquity as a method of printing on textiles and later on paper. As a method of printing on cloth, the earliest surviving examples from China date to before 220 A.D. and examples from Roman Egypt date to the fourth century.
+
+The earliest surviving woodblock printed fragments are from China and are of silk printed with flowers in three colours from the Han Dynasty (before 220 A.D.), and the earliest example of woodblock printing on paper appeared in the mid-seventh century in China.
+
+By the ninth century printing on paper had taken off, and the first extant complete printed book containing its date is the Diamond Sutra (British Library) of 868. By the tenth century, 400,000 copies of some sutras and pictures were printed and the Confucian classics were in print. A skilled printer could print up to 2,000 double-page sheets per day.
+
+Printing spread early to Korea and Japan, who also used Chinese logograms, but the techniques also were used in Turpan and Vietnam using a number of other scripts. Unlike the diffusion of paper, however, printing techniques never spread to the Islamic world.
+
+Woodblock printing on cloth appeared in Roman Egypt by the fourth century. Block printing, called tarsh in Arabic was developed in Arabic Egypt during the ninth-tenth centuries, mostly for prayers and amulets. There is some evidence to suggest that these print blocks were made from non-wood materials, possibly tin, lead, or clay. The techniques employed are uncertain, however, and they appear to have had very little influence outside of the Muslim world. Though Europe adopted woodblock printing from the Muslim world, initially for fabric, the technique of metal block printing remained unknown in Europe. Block printing later went out of use in Islamic Central Asia after movable type printing was introduced from China.
+
+Block printing first came to Europe as a method for printing on cloth, where it was common by 1300. Images printed on cloth for religious purposes could be quite large and elaborate, and when paper became relatively easily available, around 1400, the medium transferred very quickly to small woodcut religious images and playing cards printed on paper. These prints were produced in very large numbers from about 1425 onward.
+
+Around the mid-fifteenth-century, block-books, woodcut books with both text and images, usually carved in the same block, emerged as a cheaper alternative to manuscripts and books printed with movable type. These were all short heavily illustrated works, the bestsellers of the day, repeated in many different block-book versions: the Ars moriendi and the Biblia pauperum were the most common. There is still some controversy among scholars as to whether their introduction preceded or, the majority view, followed the introduction of movable type, with the range of estimated dates being between about 1440 and 1460.
+
+Movable type is the system of printing and typography using movable pieces of metal type, made by casting from matrices struck by letterpunches. Movable type allowed for much more flexible processes than hand copying or block printing.
+
+Around 1040, the first known movable type system was created in China by Bi Sheng out of porcelain. Sheng used clay type, which broke easily, but Wang Zhen later carved a more durable type from wood by 1298 C.E., and developed a complex system of revolving tables and number-association with written Chinese characters that made typesetting and printing more efficient. The main method in use there remained woodblock printing, xylography, however, which "proved to be cheaper and more efficient for printing Chinese, with its thousands of characters".
+
+Copper movable type printing originated in China at the beginning of twelfth century. It was used in large scale printing of paper money issued by the Northern Song dynasty.
+
+Around 1230, Koreans invented a metal type movable printing using bronze. The Jikji, published in 1377, is the earliest known metal printed book. Type-casting was used, adapted from the method of casting coins. The character was cut in beech wood, which was then pressed into a soft clay to form a mould and bronze poured into the mould and the type was finally polished.
+
+Around 1450, Johannes Gutenberg introduced what is regarded as the first modern movable type system in Europe (see printing press), along with innovations in casting the type based on a matrix and hand mould. Gutenberg was the first to create his type pieces from an alloy of lead, tin, and antimony – the same components still used today.
+
+Johannes Gutenberg's work on his printing press began in approximately 1436 when he partnered with Andreas Dritzehen – a man he had previously instructed in gem-cutting – and Andreas Heilmann, the owner of a paper mill. It was not until a 1439 lawsuit against Gutenberg that an official record exists; witness testimony discussed type, an inventory of metals (including lead) and his type mold.
+
+Compared to woodblock printing, movable type page setting and printing using a press was faster and more durable. The metal type pieces were sturdier and the lettering more uniform, leading to typography and fonts. The high quality and relatively low price of the Gutenberg Bible (1455) established the superiority of movable type for western languages, and printing presses rapidly spread across Europe, leading up to the Renaissance, and later all around the world. Today, practically all movable type printing ultimately derives from Gutenberg's innovations to movable type printing, which is often regarded as the most important invention of the second millennium.
+
+The rotary printing press was invented by Richard March Hoe in 1843. It uses impressions curved around a cylinder to print on long continuous rolls of paper or other substrates. Rotary drum printing was later significantly improved by William Bullock.
+
+Across the world, over 45 trillion pages (2005 figure) are printed annually. In 2006 there were approximately 30,700 printing companies in the United States, accounting for $112 billion, according to the 2006 U.S. Industry & Market Outlook by Barnes Reports. Print jobs that move through the Internet made up 12.5% of the total U.S. printing market last year, according to research firm InfoTrend/CAP Ventures.
+
+Offset printing is a widely used printing technique where the inked image is transferred (or "offset") from a plate to a rubber blanket, then to the printing surface. When used in combination with the lithographic process, which is based on the repulsion of oil and water, the offset technique employs a flat (planographic) image carrier on which the image to be printed obtains ink from ink rollers, while the non-printing area attracts a film of water, keeping the non-printing areas ink-free.
+
+Currently, most books and newspapers are printed using the technique of offset lithography. Other common techniques include:
+
+Gravure printing is an intaglio printing technique, where the image to be printed is made up of small depressions in the surface of the printing plate. The cells are filled with ink and the excess is scraped off the surface with a doctor blade, then a rubber-covered roller presses paper onto the surface of the plate and into contact with the ink in the cells. The printing plates are usually made from copper and may be produced by digital engraving or laser etching.
+
+Gravure printing is used for long, high-quality print runs such as magazines, mail-order catalogues, packaging, and printing onto fabric and wallpaper. It is also used for printing postage stamps and decorative plastic laminates, such as kitchen worktops.
+
+It is estimated that following the innovation of Gutenberg's printing press, the European book output rose from a few million to around one billion copies within a span of less than four centuries.
+
+Samuel Hartlib, who was exiled in Britain and enthusiastic about social and cultural reforms, wrote in 1641 that "the art of printing will so spread knowledge that the common people, knowing their own rights and liberties, will not be governed by way of oppression". Both churchmen and governments were concerned that print allowed readers, eventually including those from all classes of society, to study religious texts and politically sensitive issues by themselves, instead of having their thinking mediated by the religious and political authorities.
+
+In the Muslim world, printing, especially in Arabic or Turkish, was strongly opposed throughout the early modern period, though sometimes, printing in Hebrew was permitted. Muslim countries have been regarded as forming a consistent barrier to the passage of printing from China to the West. According to an imperial ambassador to Istanbul in the middle of the sixteenth century, it was a sin for the Turks to print religious books. In 1515, Sultan Selim I issued a decree under which the practice of printing would be punishable by death. At the end of the sixteenth century, Sultan Murad III permitted the sale of non-religious printed books in Arabic characters, yet the majority were imported from Italy.
+
+Jews were banned from German printing guilds; as a result Hebrew printing sprang up in Italy, beginning in 1470 in Rome, then spreading to other cities including Bari, Pisa, Livorno, and Mantuba. Local rulers had the authority to grant or revoke licenses to publish Hebrew books, and many of those printed during this period carry the words 'con licenza de superiori' (indicating their printing having been licensed by the censor) on their title pages.
+
+It was thought that the introduction of the printing medium 'would strengthen religion and enhance the power of monarchs.' The majority of books were of a religious nature, with the church and crown regulating the content. The consequences of printing 'wrong' material were extreme. Meyrowitz used the example of William Carter who in 1584 printed a pro-Catholic pamphlet in Protestant-dominated England. The consequence of his action was hanging.
+
+The widespread distribution of the Bible 'had a revolutionary impact, because it decreased the power of the Catholic Church as the prime possessor and interpretor of God's word.'
+
+Print gave a broader range of readers access to knowledge and enabled later generations to build directly on the intellectual achievements of earlier ones without the changes arising within verbal traditions. Print, according to Acton in his lecture On the Study of History (1895), gave "assurance that the work of the Renaissance would last, that what was written would be accessible to all, that such an occultation of knowledge and ideas as had depressed the Middle Ages would never recur, that not an idea would be lost".
+
+Print was instrumental in changing the nature of reading within society.
+
+Elizabeth Eisenstein identifies two long term effects of the invention of printing. She claims that print created a sustained and uniform reference for knowledge as well as allowing for comparison between incompatible views. (Eisenstein in Briggs and Burke, 2002: p21)
+
+Asa Briggs and Peter Burke identify five kinds of reading that developed in relation to the introduction of print:
+
+The invention of printing also changed the occupational structure of European cities. Printers emerged as a new group of artisans for whom literacy was essential, although the much more labour-intensive occupation of the scribe naturally declined. Proof-correcting arose as a new occupation, while a rise in the amount of booksellers and librarians naturally followed the explosion in the numbers of books.
+
+By 2005, Digital printing accounts for approximately 9% of the 45 trillion pages printed annually around the world.
+
+Printing at home, an office, or an engineering environment is subdivided into:
+
+Some of the more common printing technologies are:
+
+Vendors typically stress the total cost to operate the equipment, involving complex calculations that include all cost factors involved in the operation as well as the capital equipment costs, amortization, etc. For the most part, toner systems are more economical than inkjet in the long run, even though inkjets are less expensive in the initial purchase price.
+
+Professional digital printing (using toner) primarily uses an electrical charge to transfer toner or liquid ink to the substrate onto which it is printed. Digital print quality has steadily improved from early color and black and white copiers to sophisticated colour digital presses such as the Xerox iGen3, the Kodak Nexpress, the HP Indigo Digital Press series, and the InfoPrint 5000. The iGen3 and Nexpress use toner particles and the Indigo uses liquid ink. The InfoPrint 5000 is a full-color, continuous forms inkjet drop-on-demand printing system. All handle variable data, and rival offset in quality. Digital offset presses are also called direct imaging presses, although these presses can receive computer files and automatically turn them into print-ready plates, they cannot insert variable data.
+
+Small press and fanzines generally use digital printing. Prior to the introduction of cheap photocopying the use of machines such as the spirit duplicator, hectograph, and mimeograph was common.
+
+3D printing is a form of manufacturing technology where objects are created using three-dimensional files and 3D printers. Objects are created by laying down successive layers of material. As of 2012, some companies such as Sculpteo or Shapeways are proposing online solutions for 3D printing.
+
+Printed electronics is the manufacturing of electronic devices using standard printing processes. Printed electronics technology can be produced on cheap materials such as paper or flexible film, which makes it an extremely cost effective method of production. Since early 2010, the printable electronics industry has been gaining momentum and several large companies, including Bemis Company and Illinois Tool Works have made investments in printed electronics and industry associations including OE-A and FlexTech Alliance are contributing heavily to the advancement of the printed electronics industry.
+
+On the effects of Gutenberg's printing
+
+Early printers manuals The classic manual of early hand-press technology is

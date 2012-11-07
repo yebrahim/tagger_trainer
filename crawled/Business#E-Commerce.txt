@@ -1,0 +1,42 @@
+Wikipedia, the free encyclopedia
+Electronic commerce, commonly known as e-commerce, is the buying and selling of product or service over electronic systems such as the Internet and other computer networks. Electronic commerce draws on such technologies as electronic funds transfer, supply chain management, Internet marketing, online transaction processing, electronic data interchange (EDI), inventory management systems, and automated data collection systems. Modern electronic commerce typically uses the World Wide Web at least at one point in the transaction's life-cycle, although it may encompass a wider range of technologies such as e-mail, mobile devices and telephones as well.
+
+Electronic commerce is generally considered to be the sales aspect of e-business. It also consists of the exchange of data to facilitate the financing and payment aspects of business transactions.
+
+E-commerce can be divided into:
+
+Originally, electronic commerce was identified as the facilitation of commercial transactions electronically, using technology such as Electronic Data Interchange (EDI) and Electronic Funds Transfer (EFT). These were both introduced in the late 1970s, allowing businesses to send commercial documents like purchase orders or invoices electronically. The growth and acceptance of credit cards, automated teller machines (ATM) and telephone banking in the 1980s were also forms of electronic commerce. Another form of e-commerce was the airline reservation system typified by Sabre in the USA and Travicom in the UK.
+
+Beginning in the 1990s, electronic commerce would include enterprise resource planning systems (ERP), data mining and data warehousing.
+
+In 1990, [rechelle]] invented the WorldWideWeb web browser and transformed an academic telecommunication network into a worldwide everyman everyday communication system called internet/www. Commercial enterprise on the Internet was strictly prohibited by NSF until 1991. Although the Internet became popular worldwide around 1994 with the adoption of Mosaic web browser, it took about five years to introduce security protocols (i.e. SSL encryption enabled on Netscape 1.0 Browser in late 1994) and DSL allowing continual connection to the Internet. By the end of 2000, many European and American business companies offered their services through the World Wide Web. Since then people began to associate a word "ecommerce" with the ability of purchasing various goods through the Internet using secure protocols and electronic payment services.
+
+A timeline for the development of e-commerce:
+
+Some common applications related to electronic commerce are the following:
+
+In the United States, some electronic commerce activities are regulated by the Federal Trade Commission (FTC). These activities include the use of commercial e-mails, online advertising and consumer privacy. The CAN-SPAM Act of 2003 establishes national standards for direct marketing over e-mail. The Federal Trade Commission Act regulates all forms of advertising, including online advertising, and states that advertising must be truthful and non-deceptive. Using its authority under Section 5 of the FTC Act, which prohibits unfair or deceptive practices, the FTC has brought a number of cases to enforce the promises in corporate privacy statements, including promises about the security of consumers’ personal information. As result, any corporate privacy policy related to e-commerce activity may be subject to enforcement by the FTC.
+
+The Ryan Haight Online Pharmacy Consumer Protection Act of 2008, which came into law in 2008, amends the Controlled Substances Act to address online pharmacies.
+
+Internationally there is the International Consumer Protection and Enforcement Network (ICPEN), which was formed in 1991 from an informal network of government customer fair trade organisations. The purpose was stated as being to find ways of co-operating on tackling consumer problems connected with cross-border transactions in both goods and services, and to help ensure exchanges of information among the participants for mutual benefit and understanding. From this came econsumer, as an initiative of ICPEN since April 2001. www.econsumer.gov is a portal to report complaints about online and related transactions with foreign companies.
+
+There is also Asia Pacific Economic Cooperation (APEC) was established in 1989 with the vision of achieving stability, security and prosperity for the region through free and open trade and investment. APEC has an Electronic Commerce Stearing Group as well as working on common privacy regulations throughout the APEC region.
+
+In Australia, Trade is covered under Australian Treasury Guidelines for electronic commerce, and the Australian Competition and Consumer Commission regulates and offers advice on how to deal with businesses online, and offers specific advice on what happens if things go wrong.
+
+Also Australian government ecommerce website provides information on ecommerce in Australia.
+
+In the United Kingdom, The FSA (Financial Services Authority) is the competent authority for most aspects of the Payment Services Directive (PSD). The UK implemented the PSD through the Payment Services Regulations 2009 (PSRs), which came into effect on 1 November 2009. The PSR affects firms providing payment services and their customers. These firms include banks, non-bank credit card issuers and non-bank merchant acquirers, e-money issuers, etc. The PSRs created a new class of regulated firms known as payment institutions (PIs), who are subject to prudential requirements. Article 87 of the PSD requires the European Commission to report on the implementation and impact of the PSD by 1 November 2012.
+
+Contemporary electronic commerce involves everything from ordering "digital" content for immediate online consumption, to ordering conventional goods and services, to "meta" services to facilitate other types of electronic commerce.
+
+On the institutional level, big corporations and financial institutions use the internet to exchange financial data to facilitate domestic and international business. Data integrity and security are very hot and pressing issues for electronic commerce.
+
+In 2010, the United Kingdom had the biggest e-commerce market in the world when measured by the amount spent per capita, even higher than the USA. At the time, the internet economy in the UK was expected to grow by 10% between 2010 to 2015.
+
+Amongst emerging economies, China's e-commerce presence continues to expand. With 384 million internet users, China's online shopping sales rose to $36.6 billion in 2009 and one of the reasons behind the huge growth has been the improved trust level for shoppers. The Chinese retailers have been able to help consumers feel more comfortable shopping online. eCommerce is also expanding across the Middle East. Having recorded the world’s fastest growth in internet usage between 2000 and 2009, the region is now home to more than 60 million internet users. Retail, travel and gaming are the region’s top eCommerce segments, in spite of difficulties such as the lack of region-wide legal frameworks and logistical problems in cross-border transportation. E-Commerce has become an important tool for businesses worldwide not only to sell to customers but also to engage them.
+
+Impact on Markets and Retailers Economists have theorized that e-commerce ought to lead to intensified price competition, as it increases consumers' ability to gather information about products and prices. Research by four economists at the University of Chicago has found that the growth of online shopping has also affected industry structure in two areas that have seen significant growth in e-commerce, bookshops and travel agencies. Generally, larger firms have grown at the expense of smaller ones, as they are able to use economies of scale and offer lower prices. The lone exception to this pattern has been the very smallest category of bookseller, shops with between one and four employees, which appear to have withstood the trend.
+
+E-commerce has grown in importance as companies have adopted Pure-Click and Brick and Click channel systems. We can distinguish between pure-click and brick and click channel system adopted by companies.

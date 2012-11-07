@@ -1,0 +1,28 @@
+Wikipedia, the free encyclopedia
+Earth science (also known as geoscience, the geosciences or the Earth sciences) is an all-embracing term for the sciences related to the planet Earth. It is arguably a special case in planetary science, the Earth being the only known life-bearing planet. There are both reductionist and holistic approaches to Earth sciences. The formal discipline of Earth sciences may include the study of the atmosphere, hydrosphere, oceans and biosphere, as well as the solid earth. Typically Earth scientists will use tools from physics, chemistry, biology, chronology and mathematics to build a quantitative understanding of how the Earth system works, and how it evolved to its current state.
+
+The following fields of science are generally categorized within the geosciences:
+
+Plate tectonics, mountain ranges, volcanoes, and earthquakes are geological phenomena that can be explained in terms of energy transformations in the Earth's crust.
+
+Beneath the Earth's crust lies the mantle which is heated by the radioactive decay of heavy elements. The mantle is not quite solid and consists of magma which is in a state of semi-perpetual convection. This convection process causes the lithospheric plates to move, albeit slowly. The resulting process is known as plate tectonics.
+
+Plate tectonics might be thought of as the process by which the earth is resurfaced. Through a process called seafloor spreading), new crust is created by the flow of magma from underneath the lithosphere to the surface, through fissures, where it cools and solidifies. Through a process called subduction, oceanic crust is pushed underground — beneath the rest of the lithosphere—where it comes into contact with magma and melts—rejoining the mantle from which it originally came.
+
+Areas of the crust where new crust is created are called divergent boundaries, those where it is brought back into the earth are convergent boundaries and those where plates slide past each other, but no new lithospheric material is created or destroyed, are referred to as transform (or conservative) boundaries Earthquakes result from the movement of the lithospheric plates, and they often occur near convergent boundaries where parts of the crust are forced into the earth as part of subduction.
+
+Volcanoes result primarily from the melting of subducted crust material. Crust material that is forced into the asthenosphere melts, and some portion of the melted material becomes light enough to rise to the surface—giving birth to volcanoes.
+
+An electromagnet is a magnet that is created by a current that flows around a soft iron core. Earth has a solid iron inner core surrounded by semi-liquid materials of the outer core that move in continuous currents around the inner core; therefore, the Earth is an electromagnet. This is referred to as the dynamo theory of Earth's magnetism.
+
+The troposphere, stratosphere, mesosphere, thermosphere, and exosphere are the five layers which make up Earth's atmosphere. In all, the atmosphere is made up of about 78.0% nitrogen, 20.9% oxygen, and 0.92% argon. 75% of the gases in the atmosphere are located within the troposphere, the bottom-most layer. The remaining one percent of the atmosphere (all but the nitrogen, oxygen, and argon) contains small amounts of other gases including CO and water vapors. Water vapors and CO allow the Earth's atmosphere to catch and hold the Sun's energy through a phenomenon called the greenhouse effect. This allows Earth's surface to be warm enough to have liquid water and support life.
+
+The magnetic field created by the internal motions of the core produces the magnetosphere which protects the Earth's atmosphere from the solar wind. As the earth is 4.5 billion years old, it would have lost its atmosphere by now if there were no protective magnetosphere.
+
+In addition to storing heat, the atmosphere also protects living organisms by shielding the Earth's surface from cosmic rays. Note that the level of protection is high enough to prevent cosmic rays from destroying all life on Earth, yet low enough to aid the mutations that have an important role in pushing forward diversity in the biosphere.
+
+Like all other scientists, Earth scientists apply the scientific method. They formulate hypotheses after observing events and gathering data about natural phenomena, and then they test hypotheses from such data.
+
+A contemporary idea within earth science is uniformitarianism. Uniformitarianism says that "ancient geologic features are interpreted by understanding active processes that are readily observed". Simply stated, this means that geological processes occurring today happened in the past -- the present is the key to the past. For example, a mountain need not be thought of as having been created in a moment, but instead it may be seen as the result of continuous subduction, causing magma to rise and form continental volcanic arcs.
+
+Earth science generally recognizes four spheres, the lithosphere, the hydrosphere, the atmosphere, and the biosphere; these correspond to rocks, water, air, and life. Some practitioners include, as part of the spheres of the Earth, the cryosphere (corresponding to ice) as a distinct portion of the hydrosphere, as well as the pedosphere (corresponding to soil) as an active and intermixed sphere.

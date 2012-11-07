@@ -1,0 +1,72 @@
+Wikipedia, the free encyclopedia
+Logistics is the management of the flow of resources between the point of origin and the point of destination in order to meet some requirements, for example of customers or corporations. The resources managed in logistics can include physical items such as food, materials, equipment, liquids, and staff as well as abstract items such as information, particles, and energy. The logistics of physical items usually involves the integration of information flow, material handling, production, packaging, inventory, transportation, warehousing, and often security. The complexity of logistics can be modeled, analyzed, visualized, and optimized by dedicated simulation software. Minimizing use of resources and time are common goals.
+
+The term logistics comes from the late 19th century: from French logistique, from loger 'to lodge'.
+
+Logistics is considered to have originated in the military's need to supply itself with arms, ammunition, and rations as it moved from base to a forward position. In the ancient Greek, Roman, and Byzantine empires, military officers with the title Logistikas were responsible for financial and supply distribution matters .
+
+The Oxford English Dictionary defines logistics as "the branch of military science relating to procuring, maintaining and transporting material, personnel and facilities." However, the New Oxford American Dictionary defines logistics as "the detailed coordination of a complex operation involving many people, facilities, or supplies" and the Oxford Dictionary online defines it as, "the detailed organization and implementation of a complex operation:" Another dictionary definition is "the time-related positioning of resources." As such, logistics is commonly seen as a branch of engineering that creates "people systems" rather than "machine systems".
+
+According to the Council of Logistics Management, logistics contains the integrated planning, control, realization, and monitoring of all internal and network-wide material-, part- and product flow including the necessary information flow in industrial and trading companies along the complete value-added chain (and product life cycle) for the purpose of conforming to customer requirements.
+
+Logistics is the process of planning, implementing, and controlling the effective and efficient flow of goods and services form the point of origin to the point of consumption.
+
+Logistics is one of the main functions within a company. The main targets of logistics can be divided into performance related and cost related. They are high due date reliability, short delivery times, low inventory level and high capacity utilization. But when decisions need to be made, there is always a trade off between these targets.
+
+Inbound logistics is one of the primary processes and it concentrates on purchasing and arranging inbound movement of materials, parts and/or finished inventory from suppliers to manufacturing or assembly plants, warehouses or retail stores.
+
+Outbound logistics is the process related to the storage and movement of the final product and the related information flows from the end of the production line to the end user.
+
+Given the services performed by logisticians, the main fields of logistics can be broken down as follows:
+
+Procurement Logistics consists of activities such as market research, requirements planning, make or buy decisions, supplier management, ordering, and order controlling. The targets in procurement logistics might be contradictory - maximize the efficiency by concentrating on core competences, outsourcing while maintaining the autonomy of the company, and minimization of procurement costs while maximizing the security within the supply process.
+
+Production Logistics connects procurement to distribution logistics. The main function of production logistics is to use the available production capacities to produce the products needed in distribution logistics. Production logistics activities are related to organizational concepts, layout planning, production planning, and control.
+
+Distribution Logistics has, as main tasks, the delivery of the finished products to the customer. It consists of order processing, warehousing, and transportation. Distribution logistics is necessary because the time, place, and quantity of production differs with the time, place, and quantity of consumption.
+
+Disposal Logistics' main function is to reduce logistics cost(s), enhance service(s), related to the disposal of waste produced during the operation of a business.
+
+Reverse logistics stands for all operations related to the reuse of products and materials.The reverse logistics process includes the management and the sale of surplus as well as returned items of products.
+
+In military science, maintaining one's supply lines while disrupting those of the enemy is a crucial—some would say the most crucial—element of military strategy, since an armed force without resources and transportation is defenseless. The defeat of the British in the American War of Independence and the defeat of the Axis in the African theatre of World War II are attributed to logistical failure. The historical leaders Hannibal Barca, Alexander the Great, Freighnk Nieman and the Duke of Wellington are considered to have been logistical geniuses.
+
+Militaries have a significant need for logistics solutions, and so have developed advanced implementations. Integrated Logistics Support (ILS) is a discipline used in military industries to ensure an easily supportable system with a robust customer service (logistic) concept at the lowest cost and in line with (often high) reliability, availability, maintainability and other requirements as defined for the project.
+
+In military logistics, logistics officers manage how and when to move resources to the places they are needed.
+
+Supply chain management in military logistics often deals with a number of variables in predicting cost, deterioration, consumption, and future demand. The US Military's categorical supply classification was developed in such a way that categories of supply with similar consumption variables are grouped together for planning purposes. For instance, peacetime consumption of ammunition and fuel will be considerably less than wartime consumption of these items, whereas other classes of supply such as subsistence and clothing have a relatively consistent consumption rate regardless of war or peace. Troops will always require uniform and food. More troops will require more uniforms and food.
+
+Some classes of supply have a linear demand relationship—as more troops are added more supply items are needed—as more equipment is used more fuel and ammunition is consumed. Other classes of supply must consider a third variable besides usage and quantity: time. As equipment ages more and more repair parts are needed over time, even when usage and quantity stays consistent. By recording and analyzing these trends over time and applying to future scenarios, the US Military can accurately supply troops with the items necessary at the precise moment they are needed. History has shown that good logistical planning creates a lean and efficient fighting force. Lack thereof can lead to a clunky, slow, and ill-equipped force with too much or too little supply.
+
+One definition of business logistics speaks of "having the right item in the right quantity at the right time at the right place for the right price in the right condition to the right customer". As the science of process , business logistics incorporates all industry sectors. Logistics work aims to manage the fruition of project life cycles, supply chains and resultant efficiencies.
+
+Logistics as a business concept evolved in the 1950s due to the increasing complexity of supplying businesses with materials and shipping out products in an increasingly globalized supply-chain, leading to a call for experts called "supply chain logisticians".
+
+In business, logistics may have either internal focus (inbound logistics), or external focus (outbound logistics) covering the flow and storage of materials from point of origin to point of consumption (see supply-chain management). The main functions of a qualified logistician include inventory management, purchasing, transportation, warehousing, consultation, and the organizing and planning of these activities. Logisticians combine a professional knowledge of each of these functions to coordinate resources in an organization.
+
+There are two fundamentally different forms of logistics: one optimizes a steady flow of material through a network of transport links and storage nodes; the other coordinates a sequence of resources to carry out some project.
+
+The term production logistics describes logistic processes within an industry. Production logistics aims to ensure that each machine and workstation receives the right product in the right quantity and quality at the right time. The concern is not the transportation itself, but to streamline and control the flow through value-adding processes and to eliminate non–value-adding processes. Production logistics can operate in existing as well as new plants. Manufacturing in an existing plant is a constantly changing process. Machines are exchanged and new ones added, which gives the opportunity to improve the production logistics system accordingly. Production logistics provides the means to achieve customer response and capital efficiency.
+
+Production logistics becomes more important with decreasing batch sizes. In many industries (e.g. mobile phones), a batch size of one is the short-term aim, allowing even a single customer's demand to be fulfilled efficiently. Track and tracing, which is an essential part of production logistics—due to product safety and product reliability issues—is also gaining importance, especially in the automotive and medical industries.
+
+Logistics is that part of the supply chain which plans, implements and controls the efficient, effective forward and reverse flow and storage of goods, services and related information between the point of origin and the point of consumption in order to meet customer and legal requirements. A professional working in the field of logistics management is called a logistician.
+
+Logistics management is known by many names, including:
+
+The Chartered Institute of Logistics & Transport (CILT), established in the United Kingdom in 1919, received a Royal Charter in 1926. The Chartered Institute is one of the professional bodies or institutions for the logistics and transport sectors, that offers professional qualifications or degrees in logistics management.
+
+Although there is some functionality overlap, warehouse management systems (WMS) can differ significantly from warehouse control systems (WCS). Simply put, a WMS plans a weekly activity forecast based on such factors as statistics and trends, whereas a WCS acts like a floor supervisor, working in real time to get the job done by the most effective means. For instance, a WMS can tell the system it is going to need five of stock-keeping unit (SKU) A and five of SKU B hours in advance, but by the time it acts, other considerations may have come into play or there could be a logjam on a conveyor. A WCS can prevent that problem by working in real time and adapting to the situation by making a last-minute decision based on current activity and operational status. Working synergistically, WMS and WCS can resolve these issues and maximize efficiency for companies that rely on the effective operation of their warehouse or distribution center.
+
+Logistics outsourcing involves a relationship between a company and an LSP (Logistic Service Provider) which, compared with basic logistics services, has more customized offerings, encompasses a broad number of service activities, is characterized by a long-term orientation, and, thus, has a rather strategic nature.
+
+Third-party logistics (3PL) involves using external organizations to execute logistics activities that have traditionally been performed within an organization itself. According to this definition, third-party logistics includes any form of outsourcing of logistics activities previously performed in-house. If, for example, a company with its own warehousing facilities decides to employ external transportation, this would be an example of third-party logistics. Logistics is an emerging business area in many countries.
+
+The concept of Fourth-Party Logistics (4PL) provider was first defined by Andersen Consulting (Now Accenture) as an integrator that assembles the resources, capabilities and technology of its own organization and other organizations to design, build, and run comprehensive supply chain solutions. Whereas a third party logistics (3PL) service provider targets a function, a 4PL targets management of the entire process. Some have described a 4PL as a general contractor who manages other 3PLs, truckers, forwarders, custom house agents, and others, essentially taking responsibility of a complete process for the customer.
+
+Emergency logistics is a term used by the logistics, supply chain and manufacturing industries to denote specific time critical modes of transport used to move goods or objects rapidly in the event of an emergency. The reason for enlisting emergency logistics services could be a production delay or anticipated production delay, or it could be that specialist equipment is needed urgently to prevent instances such as aircraft being grounded (also known as "aircraft on ground"--AOG), ships being delayed, or telecommunications failure. Emergency logistics services are typically sourced from a specialist provider.
+
+A logistician is a professional logistics practitioner. Professional logisticians are often certified by professional associations. One can either work in a pure logistics company such as shipping line, airport or freight forwarder or within the logistics department of a company. However, as mentioned previously, logistics is a very broad field encompassing procurement, production, distribution and disposal activities. Hence, the career perspectives are very broad also. A new trend in the industry are the 4PL, or Fourth-party logistics - consulting companies offering logistics services.
+
+Some universities and academic institutions train students as logisticians, offering undergraduate and postgraduate programs.

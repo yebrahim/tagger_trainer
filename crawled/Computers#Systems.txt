@@ -1,0 +1,58 @@
+Wikipedia, the free encyclopedia
+A system is a set of interacting or interdependent components forming an integrated whole or a set of elements (often called 'components' ) and relationships which are different from relationships of the set or its elements to other elements or sets.
+
+Fields that study the general properties of systems include systems theory, cybernetics, dynamical systems, thermodynamics, and complex systems. They investigate the abstract properties of systems' matter and organization, looking for concepts and principles that are independent of domain, substance, type, or temporal scale.
+
+The term system may also refer to a set of rules that governs structure and/or behavior. Alternatively, and usually in the context of complex social systems, the term institution is used to describe the set of rules that govern structure and/or behavior.
+
+The term is from the Latin word systēma, in turn from Greek systēma, "whole compounded of several parts or members, system", literary "composition"
+
+The word system in its meaning here, has a long history which can be traced back to Plato (Philebus), Aristotle (Politics) and Euclid (Elements). It had meant "total", "crowd" or "union" in even more ancient times, as it derives from the verb sunìstemi, uniting, putting together.
+
+"System" means "something to look at". You must have a very high visual gradient to have systematization. In philosophy, before Descartes, there was no "system". Plato had no "system". Aristotle had no "system". (Marshall McLuhan in: McLuhan: Hot & Cool. Ed. by Gerald Emanuel Stearn. A Signet Book published by The New American Library, New York, 1967, p. 288).
+
+In the 19th century the first to develop the concept of a "system" in the natural sciences was the French physicist Nicolas Léonard Sadi Carnot who studied thermodynamics. In 1824 he studied the system which he called the working substance, i.e. typically a body of water vapor, in steam engines, in regards to the system's ability to do work when heat is applied to it. The working substance could be put in contact with either a boiler, a cold reservoir (a stream of cold water), or a piston (to which the working body could do work by pushing on it). In 1850, the German physicist Rudolf Clausius generalized this picture to include the concept of the surroundings and began to use the term "working body" when referring to the system.
+
+One of the pioneers of the general systems theory was the biologist Ludwig von Bertalanffy. In 1945 he introduced models, principles, and laws that apply to generalized systems or their subclasses, irrespective of their particular kind, the nature of their component elements, and the relation or 'forces' between them.
+
+Significant development to the concept of a system was done by Norbert Wiener and Ross Ashby who pioneered the use of mathematics to study systems.
+
+In the 1980s the term complex adaptive system was coined at the interdisciplinary Santa Fe Institute by John H. Holland, Murray Gell-Mann and others.
+
+Following are considered as the elements of a system in terms of Information systems: -
+
+Systems are classified in different ways:-
+
+Physical systems are tangible entities that may be static or dynamic in operation.
+
+An open system has many interfaces with its environment. i.e. system that interacts freely with its environment, taking input and returning output. It permits interaction across its boundary; it receives inputs from and delivers outputs to the outside. A closed system does not interact with the environment; changes in the environment and adaptability are not issues for closed system.
+
+Evidently, there are many types of systems that can be analyzed both quantitatively and qualitatively. For example, with an analysis of urban systems dynamics, [A.W. Steiss] defines five intersecting systems, including the physical subsystem and behavioral system. For sociological models influenced by systems theory, where Kenneth D. Bailey defines systems in terms of conceptual, concrete and abstract systems; either isolated, closed, or open, Walter F. Buckley defines social systems in sociology in terms of mechanical, organic, and process models. Bela H. Banathy cautions that with any inquiry into a system that understanding the type of system is crucial and defines Natural and Designed systems.
+
+In offering these more global definitions, the author maintains that it is important not to confuse one for the other. The theorist explains that natural systems include sub-atomic systems, living systems, the solar system, the galactic system and the Universe. Designed systems are our creations, our physical structures, hybrid systems which include natural and designed systems, and our conceptual knowledge. The human element of organization and activities are emphasized with their relevant abstract systems and representations. A key consideration in making distinctions among various types of systems is to determine how much freedom the system has to select purpose, goals, methods, tools, etc. and how widely is the freedom to select itself distributed (or concentrated) in the system.
+
+George J. Klir maintains that no "classification is complete and perfect for all purposes," and defines systems in terms of abstract, real, and conceptual physical systems, bounded and unbounded systems, discrete to continuous, pulse to hybrid systems, et cetera. The interaction between systems and their environments are categorized in terms of relatively closed, and open systems. It seems most unlikely that an absolutely closed system can exist or, if it did, that it could be known by us. Important distinctions have also been made between hard and soft systems. Hard systems are associated with areas such as systems engineering, operations research and quantitative systems analysis. Soft systems are commonly associated with concepts developed by Peter Checkland and Brian Wilson through Soft Systems Methodology (SSM) involving methods such as action research and emphasizing participatory designs. Where hard systems might be identified as more "scientific," the distinction between them is actually often hard to define.
+
+A cultural system may be defined as the interaction of different elements of culture. While a cultural system is quite different from a social system, sometimes both systems together are referred to as the sociocultural system. A major concern in the social sciences is the problem of order. One way that social order has been theorized is according to the degree of integration of cultural and social factors.
+
+An economic system is a mechanism (social institution) which deals with the production, distribution and consumption of goods and services in a particular society. The economic system is composed of people, institutions and their relationships to resources, such as the convention of property. It addresses the problems of economics, like the allocation and scarcity of resources.
+
+Systems modeling is generally a basic principle in engineering and in social sciences. The system is the representation of the entities under concern. Hence inclusion to or exclusion from system context is dependent of the intention of the modeler.
+
+No model of a system will include all features of the real system of concern, and no model of a system must include all entities belonging to a real system of concern.
+
+In computer science and information science, system is a software system which has components as its structure and observable Inter-process communications as its behavior. Again, an example will illustrate: There are systems of counting, as with Roman numerals, and various systems for filing papers, or catalogues, and various library systems, of which the Dewey Decimal System is an example. This still fits with the definition of components which are connected together (in this case in order to facilitate the flow of information).
+
+System can also be used referring to a framework, be it software or hardware, designed to allow software programs to run, see platform.
+
+In engineering and physics, a physical system is the portion of the universe that is being studied (of which a thermodynamic system is one major example). Engineering also has the concept of a system that refers to all of the parts and interactions between parts of a complex project. Systems engineering refers to the branch of engineering that studies how this type of system should be planned, designed, implemented, built, and maintained.
+
+Social and cognitive sciences recognize systems in human person models and in human societies. They include human brain functions and human mental processes as well as normative ethics systems and social/cultural behavioral patterns.
+
+In management science, operations research and organizational development (OD), human organizations are viewed as systems (conceptual systems) of interacting components such as subsystems or system aggregates, which are carriers of numerous complex business processes (organizational behaviors) and organizational structures. Organizational development theorist Peter Senge developed the notion of organizations as systems in his book The Fifth Discipline.
+
+Systems thinking is a style of thinking/reasoning and problem solving. It starts from the recognition of system properties in a given problem. It can be a leadership competency. Some people can think globally while acting locally. Such people consider the potential consequences of their decisions on other parts of larger systems. This is also a basis of systemic coaching in psychology.
+
+Organizational theorists such as Margaret Wheatley have also described the workings of organizational systems in new metaphoric contexts, such as quantum physics, chaos theory, and the self-organization of systems.
+
+In 1988, military strategist, John A. Warden III introduced his Five Ring System model in his book, The Air Campaign contending that any complex system could be broken down into five concentric rings. Each ring—Leadership, Processes, Infrastructure, Population and Action Units—could be used to isolate key elements of any system that needed change. The model was used effectively by Air Force planners in the First Gulf War. In the late 1990s, Warden applied this five ring model to business strategy.

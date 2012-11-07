@@ -1,0 +1,62 @@
+Wikipedia, the free encyclopedia
+Aviation is the design, development, production, operation, and use of aircraft, especially heavier-than-air aircraft. Aviation is derived from avis, the Latin word for bird.
+
+Many cultures have built devices that travel through the air, from the earliest projectiles such as stones and spears, the boomerang in Australia, the hot air Kongming lantern, and kites. There are early legends of human flight such as the story of Icarus, and Jamshid in Persian myth, and later, somewhat more credible claims of short-distance human flights appear, such as the flying automaton of Archytas of Tarentum (428–347 BC), the winged flights of Abbas Ibn Firnas (810–887), Eilmer of Malmesbury (11th century), and the hot-air Passarola of Bartolomeu Lourenço de Gusmão (1685–1724).
+
+The modern age of aviation began with the first untethered human lighter-than-air flight on November 21, 1783, in a hot air balloon designed by the Montgolfier brothers. The practicality of balloons was limited because they could only travel downwind. It was immediately recognized that a steerable, or dirigible, balloon was required. Jean-Pierre Blanchard flew the first human-powered dirigible in 1784 and crossed the English Channel in one in 1785.
+
+In 1799 Sir George Cayley set forth the concept of the modern airplane as a fixed-wing flying machine with separate systems for lift, propulsion, and control. Early dirigible developments included machine-powered propulsion (Henri Giffard, 1852), rigid frames (David Schwarz, 1896), and improved speed and maneuverability (Alberto Santos-Dumont, 1901)
+
+While there are many competing claims for the earliest powered, heavier-than-air flight, the most widely-accepted date is December 17, 1903 by the Wright brothers. The Wright brothers were the first to fly in a powered and controlled aircraft. Previous flights were gliders (control but no power) or free flight (power but no control), but the Wright brothers combined both, setting the new standard in aviation records. Following this, the widespread adoption of ailerons rather than wing warping made aircraft much easier to control, and only a decade later, at the start of World War I, heavier-than-air powered aircraft had become practical for reconnaissance, artillery spotting, and even attacks against ground positions.
+
+Aircraft began to transport people and cargo as designs grew larger and more reliable. The Wright brothers took aloft the first passenger, Charles Furnas, one of their mechanics, on May 14, 1908. In contrast to small non-rigid blimps, giant rigid airships became the first aircraft to transport passengers and cargo over great distances. The best known aircraft of this type were manufactured by the German Zeppelin company.
+
+The most successful Zeppelin was the Graf Zeppelin. It flew over one million miles, including an around-the-world flight in August 1929. However, the dominance of the Zeppelins over the airplanes of that period, which had a range of only a few hundred miles, was diminishing as airplane design advanced. The "Golden Age" of the airships ended on May 6, 1937 when the Hindenburg caught fire, killing 36 people. Although there have been periodic initiatives to revive their use, airships have seen only niche application since that time.
+
+Great progress was made in the field of aviation during the 1920s and 1930s, such as Charles Lindbergh's solo transatlantic flight in 1927, and Charles Kingsford Smith's transpacific flight the following year. One of the most successful designs of this period was the Douglas DC-3, which became the first airliner that was profitable carrying passengers exclusively, starting the modern era of passenger airline service. By the beginning of World War II, many towns and cities had built airports, and there were numerous qualified pilots available. The war brought many innovations to aviation, including the first jet aircraft and the first liquid-fueled rockets.
+
+After World War II, especially in North America, there was a boom in general aviation, both private and commercial, as thousands of pilots were released from military service and many inexpensive war-surplus transport and training aircraft became available. Manufacturers such as Cessna, Piper, and Beechcraft expanded production to provide light aircraft for the new middle-class market.
+
+By the 1950s, the development of civil jets grew, beginning with the de Havilland Comet, though the first widely-used passenger jet was the Boeing 707, because it was much more economical than other planes at the time. At the same time, turboprop propulsion began to appear for smaller commuter planes, making it possible to serve small-volume routes in a much wider range of weather conditions.
+
+Since the 1960s, composite airframes and quieter, more efficient engines have become available, and Concorde provided supersonic passenger service for more than two decades, but the most important lasting innovations have taken place in instrumentation and control. The arrival of solid-state electronics, the Global Positioning System, satellite communications, and increasingly small and powerful computers and LED displays, have dramatically changed the cockpits of airliners and, increasingly, of smaller aircraft as well. Pilots can navigate much more accurately and view terrain, obstructions, and other nearby aircraft on a map or through synthetic vision, even at night or in low visibility.
+
+On June 21, 2004, SpaceShipOne became the first privately funded aircraft to make a spaceflight, opening the possibility of an aviation market capable of leaving the Earth's atmosphere. Meanwhile, flying prototypes of aircraft powered by alternative fuels, such as ethanol, electricity, and even solar energy, are becoming more common.
+
+Civil aviation includes all non-military flying, both general aviation and scheduled air transport.
+
+There are five major manufacturers of civil transport aircraft (in alphabetical order):
+
+Boeing, Airbus, Ilyushin and Tupolev concentrate on wide-body and narrow-body jet airliners, while Bombardier, Embraer and Sukhoi concentrate on regional airliners. Large networks of specialized parts suppliers from around the world support these manufacturers, who sometimes provide only the initial design and final assembly in their own plants. The Chinese ACAC consortium will also soon enter the civil transport market with its ACAC ARJ21 regional jet.
+
+Until the 1970s, most major airlines were flag carriers, sponsored by their governments and heavily protected from competition. Since then, open skies agreements have resulted in increased competition and choice for consumers, coupled with falling prices for airlines. The combination of high fuel prices, low fares, high salaries, and crises such as the September 11, 2001 attacks and the SARS epidemic have driven many older airlines to government-bailouts, bankruptcy or mergers. At the same time, low-cost carriers such as Ryanair, Southwest and Westjet have flourished.
+
+General aviation includes all non-scheduled civil flying, both private and commercial. General aviation may include business flights, air charter, private aviation, flight training, ballooning, parachuting, gliding, hang gliding, aerial photography, foot-launched powered hang gliders, air ambulance, crop dusting, charter flights, traffic reporting, police air patrols and forest fire fighting.
+
+Each country regulates aviation differently, but general aviation usually falls under different regulations depending on whether it is private or commercial and on the type of equipment involved.
+
+Many small aircraft manufacturers serve the general aviation market, with a focus on private aviation and flight training.
+
+The most important recent developments for small aircraft (which form the bulk of the GA fleet) have been the introduction of advanced avionics (including GPS) that were formerly found only in large airliners, and the introduction of composite materials to make small aircraft lighter and faster. Ultralight and homebuilt aircraft have also become increasingly popular for recreational use, since in most countries that allow private aviation, they are much less expensive and less heavily regulated than certified aircraft.
+
+Simple balloons were used as surveillance aircraft as early as the 18th century. Over the years, military aircraft have been built to meet ever increasing capability requirements. Manufacturers of military aircraft compete for contracts to supply their government's arsenal. Aircraft are selected based on factors like cost, performance, and the speed of production.
+
+An aviation accident is defined by the Convention on International Civil Aviation Annex 13 as an occurrence associated with the operation of an aircraft which takes place between the time any person boards the aircraft with the intention of flight until such time as all such persons have disembarked, in which a person is fatally or seriously injured, the aircraft sustains damage or structural failure or the aircraft is missing or is completely inaccessible.
+
+The first fatal aviation accident occurred in a Wright Model A aircraft at Fort Myer, Virginia, USA, on September 17, 1908, resulting in injury to the pilot, Orville Wright and death of the passenger, Signal Corps Lieutenant Thomas Selfridge.
+
+An aviation incident is defined as an occurrence, other than an accident, associated with the operation of an aircraft that affects or could affect the safety of operations.
+
+An accident in which the damage to the aircraft is such that it must be written off, or in which the plane is destroyed is called a hull loss accident.
+
+Air traffic control (ATC) involves communication with aircraft to help maintain separation — that is, they ensure that aircraft are sufficiently far enough apart horizontally or vertically for no risk of collision. Controllers may co-ordinate position reports provided by pilots, or in high traffic areas (such as the United States) they may use radar to see aircraft positions.
+
+There are generally four different types of ATC:
+
+ATC is especially important for aircraft flying under Instrument flight rules (IFR), where they may be in weather conditions that do not allow the pilots to see other aircraft. However, in very high-traffic areas, especially near major airports, aircraft flying under Visual flight rules (VFR) are also required to follow instructions from ATC.
+
+In addition to separation from other aircraft, ATC may provide weather advisories, terrain separation, navigation assistance, and other services to pilots, depending on their workload.
+
+ATC do not control all flights. The majority of VFR flights in North America are not required to talk to ATC (unless they are passing through a busy terminal area or using a major airport), and in many areas, such as northern Canada and low altitude in northern Scotland, Air trafic control services are not available even for IFR flights at lower altitudes.
+
+Like all activities involving combustion, operating powered aircraft (from airliners to hot air balloons) release soot and other pollutants into the atmosphere. Greenhouse gases such as carbon dioxide (CO ) are also produced. In addition, there are environmental impacts specific to aviation:

@@ -1,0 +1,64 @@
+Wikipedia, the free encyclopedia
+An auction is a process of buying and selling goods or services by offering them up for bid, taking bids, and then selling the item to the highest bidder. In economic theory, an auction may refer to any mechanism or set of trading rules for exchange.
+
+The word "auction" is derived from the Latin augeō which means "I increase" or "I augment".
+
+For most of history, auctions have been a relatively uncommon way to negotiate the exchange of goods and commodities. In practice, both haggling and sale by set-price have been significantly more common. Indeed, before the seventeenth century the few auctions that were held were sporadic and infrequent.
+
+Nonetheless, auctions have a long history, having been recorded as early as 500 B.C. According to Herodotus, in Babylon auctions of women for marriage were held annually. The auctions began with the woman the auctioneer considered to be the most beautiful and progressed to the least. It was considered illegal to allow a daughter to be sold outside of the auction method.
+
+During the Roman Empire, following military victory, Roman soldiers would often drive a spear into the ground around which the spoils of war were left, to be auctioned off. Later slaves, often captured as the "spoils of war", were auctioned in the forum under the sign of the spear, with the proceeds of sale going towards the war effort.
+
+The Romans also used auctions to liquidate the assets of debtors whose property had been confiscated. For example, Marcus Aurelius sold household furniture to pay off debts, the sales lasting for months. One of the most significant historical auctions occurred in the year 193 A.D. when the entire Roman Empire was put on the auction block by the Praetorian Guard. On March 23 The Praetorian Guard first killed emperor Pertinax, then offered the empire to the highest bidder. Didius Julianus outbid everyone else for the price of 6,250 drachmas per Guard , an act that initiated a brief civil war. Didius was then beheaded two months later when Septimius Severus conquered Rome.
+
+From the end of the Roman Empire to the eighteenth century auctions lost favor in Europe, while they had never been widespread in Asia.
+
+In some parts of England during the seventeenth and eighteenth centuries auction by candle was used for the sale of goods and leaseholds. This auction began by lighting a candle after which bids were offered in ascending order until the candle spluttered out. The high bid at the time the candle extinguished itself won the auction.
+
+The oldest auction house in the world is Stockholm Auction House (Stockholms Auktionsverk). It was established in Sweden in 1674.
+
+During the end of the 18th century, soon after the French Revolution, auctions came to be held in taverns and coffeehouses to sell art. Such auctions were held daily, and catalogs were printed to announce available items. Such Auction catalogs are frequently printed and distributed before auctions of rare or collectible items. In some cases these catalogs were elaborate works of art themselves, containing considerable detail about the items being auctioned. Sotheby's, now the world's second-largest auction house, held its first auction in 1744. Christie's, now the world's largest auction house, was established around 1766. Other early auction houses that are still in operation include Dorotheum (1707), Mallams (1788), Bonhams (1793), Phillips de Pury & Company (1796), Freeman's (1805) and Lyon & Turnbull (1826).
+
+During the American civil war goods seized by armies were sold at auction by the Colonel of the division. Thus, some of today's auctioneers in the U.S. carry the unofficial title of "colonel".
+
+The development of the internet, however, has led to a significant rise in the use of auctions as auctioneers can solicit bids via the internet from a wide range of buyers in a much wider range of commodities than was previously practical.
+
+In 2008, the National Auctioneers Association reported that the gross revenue of the auction industry for that year was approximately $268.4 billion, with the fastest growing sectors being agricultural, machinery, and equipment auctions and residential real estate auctions.
+
+Each type of auction has its specific qualities such as pricing accuracy and time required for preparing and conducting the auction. The number of simultaneous bidders is of critical importance. Open bidding during an extended period of time with many bidders will result in a final bid that is very close to the true market value. Where there are few bidders and each bidder is allowed only one bid, time is saved, but the winning bid may not reflect the true market value with any degree of accuracy. Of special interest and importance during the actual auction is the time elapsed from the moment that the first bid is revealed to the moment that the final (winning) bid has become a binding agreement.
+
+Auctions can differ in the number of participants:
+
+Prices are bid by buyers and asked (or offered) by sellers. Auctions may also differ by the procedure for bidding (or asking, as the case may be):
+
+Auctions may differ as to the price at which the item is sold, whether the first (best) price, the second price, the first unique price or some other. Auctions may set a reservation price which is the least/maximum acceptable price for which a good may be sold/bought.
+
+Without modification, auction generally refers to an open, demand auction, with or without a reservation price (or reserve), with the item sold to the highest bidder.
+
+Auctions are publicly and privately seen in several contexts and almost anything can be sold at auction. Some typical auction arenas include the following:
+
+Although less publicly visible, the most economically important auctions are the commodities auctions in which the bidders are businesses even up to corporation level. Examples of this type of auction include:
+
+Bid shading is placing a bid which is below the bidder's actual value for the item. Such a strategy risks losing the auction, but has the possibility of winning at a low price. Bid shading can also be a strategy to avoid the Winner's curse.
+
+A practice, especially by high-end art auctioneers, of raising false bids at crucial times in the bidding process in order to create the appearance of greater demand or to extend bidding momentum for a work on offer. To call out these nonexistent bids, auctioneers might fix their gaze at a point in the auction room that is difficult for the audience to pin down.
+
+In the United Kingdom, this practice is legal on property auctions up to but not including the reserve price, and is also known as off-the-wall bidding.
+
+Whenever bidders at an auction are aware of the identity of the other bidders there is a risk that they will form a "ring" and thus manipulate the auction result, a practice known as collusion. By agreeing to bid only against outsiders, never against members of the "ring", competition becomes weaker, which may dramatically affect the final price level. After the end of the official auction an unofficial auction may take place among the "ring" members. The difference in price between the two auctions could then be split among the members. This form of a ring was used as a central plot device in the opening episode of the 1979 British Television Series The House of Caradus, For Love or Money, uncovered by Helena Caradus on her return from Paris.
+
+A ring can also be used to increase the price of an auction lot, in which the owner of the object being auctioned may increase competition by taking part in the bidding him or herself, but drop out of the bidding just before the final bid. In Britain and many other countries, rings and other forms of bidding on one's own object are illegal. This form of a ring was used as a central plot device in an episode of the British television series Lovejoy (series 4, episode 3) in which the price of a watercolour by the (fictional) Jessie Webb is inflated so that others by the same artist could be sold for more than their purchase price.
+
+In an English auction a dummy bid is a bid made by a dummy bidder acting in collusion with the auctioneer or vendor, designed to deceive genuine bidders into paying more. In a First price auction a dummy bid is an unfavourable bid designed so as not to become the winning bid. (The bidder does not want to win this auction, but he or she wants to make sure to be invited to the next auction).
+
+In Australia a dummy bid (shill, schill) is a criminal offence but a vendor bid or a co-owner bid below the reserve price is permitted, if clearly declared as such by the auctioneer. These are all official legal terms in Australia, but may have other meanings elsewhere. A co-owner is one of two or several owners (who disagree among themselves).
+
+In Sweden and many other countries there are no legal restrictions, but it will severely hurt the reputation of an auction house that knowingly permits any other bids except genuine bids. If the reserve is not reached this should be clearly declared.
+
+There will usually be an estimate of what price the lot will fetch. In an ascending open auction it is considered important to get at least a 50-percent increase in the bids from start to finish. To accomplish this, the auctioneer must start the auction by announcing a suggested opening bid (SOB) that is low enough to be immediately accepted by one of the bidders. Once there is an opening bid, there will quickly be several other, higher bids submitted. Experienced auctioneers will often select an SOB that is about 45 percent of the (lowest) estimate. Thus there is a certain margin of safety to ensure that there will indeed be a lively auction with many bids submitted. Several observations indicate that the lower the SOB, the higher the final winning bid. This is due to the increase in the number of bidders attracted by the low SOB.
+
+A chi-squared distribution shows many low bids but few high bids. Bids "show up together"; without several low bids there will not be any high bids.
+
+Another approach to choosing an SOB: The auctioneer may achieve good success by asking the expected final sales price for the item, as this method suggests to the potential buyers the item's particular value. For instance, say an auctioneer is about to sell a $1,000 car at a sale. Instead of asking $100, hoping to entice wide interest (for who wouldn't want a $1,000 car for $100?), the auctioneer may suggest an opening bid of $1,000; although the first bidder may begin bidding at a mere $100, the final bid may more likely approach $1,000.
+
+The Journal of Economic Literature (JEL) classification code for auctions is D44.
