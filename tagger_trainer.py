@@ -79,7 +79,7 @@ for f in files:
 
     url = 'http://en.wikipedia.org/wiki/' + p
     if not check_url(url):
-        url = remove_diacritic(url)
+        p = remove_diacritic(p)
         malwriter.write(p + '\n')
         continue
 
