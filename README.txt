@@ -1,4 +1,5 @@
 tagger_trainer - a training data collector for an automated text categorizer/tagger
+created by Yasser Ebrahim, 07NOV12
 ----
 
 This script takes an input file containing a taxonomy of categories of maximum depth 2 (categories and subcategories), then it tries to find corresponding wikipedia pages for each cateogry/subcategory by traversing English wikipedia urls whose suffix is the category name. It uses Goose, a python library that extracts article body text from a given url. You can read more about Goose here: https://github.com/jiminoc/goose/wiki
