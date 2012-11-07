@@ -8,7 +8,7 @@ Date: NOV 2012
 
 This script takes an input file containing a taxonomy of categories of maximum depth 2 (categories and subcategories), then it tries to find corresponding wikipedia pages for each cateogry/subcategory by traversing English wikipedia urls whose suffix is the category name. It uses Goose, a python library that extracts article body text from a given url. You can read more about Goose here: https://github.com/jiminoc/goose/wiki
 
-The script creates a file for each category/subcategory insdie the directory "crawled." In the file is pure text extracted from the url, which can later be used to train a tagger. A simple urls_file is included called topics.txt
+The script creates a file for each category/subcategory insdie the directory "crawled." In the file is pure text extracted from the url, which can later be used to train a tagger. A simple urls_file is included called topics.txt, obtained by reformatting the 'categories.txt' file on http://rdf.dmoz.org/rdf/ to get only the first two levels.
 
 Usage:
         python tagger_trainer.py urls_file.txt
@@ -80,7 +80,7 @@ for f in files:
     url = 'http://en.wikipedia.org/wiki/' + p
     if not check_url(url):
         url = remove_diacritic(url)
-        malwriter.write(url + '\n')
+        malwriter.write(p + '\n')
         continue
 
     print('crawing: ' + url)
