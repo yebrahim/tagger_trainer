@@ -20,6 +20,9 @@ import os, sys, codecs, httplib, urlparse, unicodedata
 from goose.Goose import Goose
 from optparse import OptionParser
 
+# code is courtesy of Jabba Laci
+# at https://pythonadventures.wordpress.com/2010/10/17/check-if-url-exists/
+# --------------------------------------
 def get_server_status_code(url):
     """
     Download just the header of a URL and
@@ -42,6 +45,9 @@ def check_url(url):
     # see also http://stackoverflow.com/questions/2924422
     good_codes = [httplib.OK, httplib.FOUND, httplib.MOVED_PERMANENTLY]
     return get_server_status_code(url) in good_codes
+
+# --------------------------------------
+# end of Jabba's code
 
 def remove_diacritic(input):
     input = unicode(input, 'ISO-8859-1')
