@@ -16,13 +16,20 @@ Usage:
 ***Plese note that this requires Goose to be installed before running.
 """
 
-import os, sys, codecs, httplib, urlparse, unicodedata
-from goose.Goose import Goose
+import os
+import sys
+import codecs
+import httplib
+import urlparse
+import unicodedata
+from goose import Goose
 from optparse import OptionParser
 
 # code is courtesy of Jabba Laci
 # at https://pythonadventures.wordpress.com/2010/10/17/check-if-url-exists/
 # --------------------------------------
+
+
 def get_server_status_code(url):
     """
     Download just the header of a URL and
@@ -37,6 +44,7 @@ def get_server_status_code(url):
     except StandardError:
         return None
 
+
 def check_url(url):
     """
     Check if a URL exists without downloading the whole file.
@@ -48,6 +56,7 @@ def check_url(url):
 
 # --------------------------------------
 # end of Jabba's code
+
 
 def remove_diacritic(input):
     input = unicode(input, 'ISO-8859-1')
@@ -74,9 +83,10 @@ for f in files:
     # if the category is something like "Religion_and_Spirituality", split
     p = p.split('_and_')[0]
     # wikipedia uses single forms in urls
-    if p[-1] == 's': p = p[:-1]
+    if p[-1] == 's':
+        p = p[:-1]
     # avoid problems in file names
-    f = f.replace('/','#')
+    f = f.replace('/', '#')
     # avoid problems with accented characters
     f = remove_diacritic(f)
     # if filed already crawled, skip
@@ -90,7 +100,7 @@ for f in files:
         continue
 
     print('crawing: ' + url)
-    article = g.extractContent(url=url)
-    writer = codecs.open('crawled/' + f + '.txt',encoding='utf-8',mode='w+')
+    article = g.extract(url=url)
+    writer = codecs.open('crawled/' + f + '.txt', encoding='utf-8', mode='w+')
     writer.write(article.title + '\n')
-    writer.write(article.cleanedArticleText)
+    writer.write(article.cleaned_text)
